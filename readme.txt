@@ -1,4 +1,4 @@
-# TTT Device
+# TTT Devices
 
 * Contributors: 33themes, gabrielperezs, lonchbox, tomasog, 11bits
 * Tags: devices, mobile, user agents, media queries, body class, tablet, desktop, browser class, device, responsive, orientation, portrait, landscape
